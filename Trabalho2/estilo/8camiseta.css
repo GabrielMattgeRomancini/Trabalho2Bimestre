@@ -1,0 +1,51 @@
+.CamM{
+    height: 250px;
+    width: 230px;
+}
+.CamG{
+    height: 250px;
+    width: 230px;
+}
+.CamP{
+    height: 250px;
+    width: 230px;
+}
+.div{
+    display: inline-block;
+}
+
+.h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color:  linear-gradient(to bottom right, #3498db, #e74c3c);
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: #666;
+    color: #fff;
+    height: 60px;
+    width: 100%;
+    text-align: center;
+}
+.titulo{
+    background-color: #178b8b;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin: 0;
+    font-size: 36px;
+  }
+  .subtitulo{
+    background-color: #2e8999;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin: 0;
+    font-size: 28px;
+  }

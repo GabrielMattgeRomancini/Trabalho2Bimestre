@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+  }
+  #imgimobilis{
+    position: relative;
+  }
+.titulo{
+    background-color: #bba10d;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin: 0;
+    font-size: 36px;
+  }
+  .subtitulo{
+    background-color: #c7c950;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin: 0;
+    font-size: 28px;
+  }
+  
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color:  #666;
+    color: #fff;
+    height: 60px;
+    width: 100%;
+    text-align: center;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center;
+}
